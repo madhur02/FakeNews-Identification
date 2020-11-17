@@ -29,4 +29,3 @@ The dataset consists of 3 CSV files: "train.csv", "test.csv" and "submit.csv".
 
 "test.csv" contains the same attributes as "train.csv", but without the "label" attribute. 
 Prediction has been performed on these articles.
-
